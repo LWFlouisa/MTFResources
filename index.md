@@ -29,3 +29,7 @@ Bottom and top surgeons that treat male to female patients.
 
 ## MTF Channels
 Male to female Youtube, Vimeo, and Peertube channels I consider trustworthy.
+
+[Rose Of Dawn](https://youtube.com/c/RoseofDawn)
+[Blaire White](https://youtube.com/c/BlaireWhiteX)
+[TaraElla](https://youtube.com/c/TaraEllaTV2)
