@@ -1,4 +1,16 @@
-{℅ include style.html ℅}
+<style>
+  body {
+    background-color: black;
+  }
+
+  h1, h2, h3, h4, h5, p, pre {
+    color: lime;
+  }
+
+  a {
+    color: blue;
+  }
+</style>
 
 # MTFResources
 A static markdown index of male to female resources. This was created to counteract the Far Left ( and sometimes Far Right ) turn that has been happening in LGBT spaces do to Breadtube and Populist left politics. They dont really understand our issues, and engaging in a ton of disinformation.
