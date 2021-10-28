@@ -4,10 +4,11 @@ A static markdown index of male to female resources. This was created to counter
 ## Gender Therapists
 An index of gender therapists in bible belt area and in Georgia.
 
-
-
 ## Hormones
 Hormone providers and informed consent clinic in the bible belt and Georgia area.
+
+[Androgen Blockers](https://www.transgendermap.com/medical/hormones/blockers/)<br />
+[Feminizing](https://www.transgendermap.com/medical/hormones/feminization/)<br />
 
 ## Diet And Hair
 [Diet](https://www.transgendermap.com/social/diet-exercise/)<br />
@@ -16,8 +17,12 @@ Hormone providers and informed consent clinic in the bible belt and Georgia area
 ## Hair Removal
 Permanent hair removal clinics in Bible Belt and Georgia.
 
+[Hair Removal](https://www.transgendermap.com/medical/hair-removal/)
+
 ## Surgery
 Bottom and top surgeons that treat male to female patients.
+
+Coming soon
 
 ## MTF Channels
 Male to female Youtube, Vimeo, and Peertube channels I consider trustworthy.
