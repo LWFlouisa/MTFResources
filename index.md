@@ -30,15 +30,10 @@ Bottom and top surgeons that treat male to female patients.
 ## MTF Channels
 Male to female Youtube, Vimeo, and Peertube channels I consider trustworthy.
 
-### Right Wing
 [Rose Of Dawn](https://youtube.com/c/RoseofDawn)<br />
 [Blaire White](https://youtube.com/c/BlaireWhiteX)<br />
-
-### Center
 [TaraElla](https://youtube.com/c/TaraEllaTV2)<br />
 [SheBang](https://youtube.com/channel/UCFePFB8QcnKRbH4RexRBFPg)<br />
-
-### Left Wing
 [Maya Kaye](https://www.youtube.com/channel/UCDKjeEfLkyjFPXyWDznz6VQ)<br />
-[Riley J Dennis](https://www.youtube.com/channel/UCVF8SAGEQnBA-yKM4iQNqfw)
-[Madison Hinton](https://www.youtube.com/channel/UCE81T3u_YFLIJM6xxp7YJvg)
+[Riley J Dennis](https://www.youtube.com/channel/UCVF8SAGEQnBA-yKM4iQNqfw)<br />
+[Madison Hinton](https://www.youtube.com/channel/UCE81T3u_YFLIJM6xxp7YJvg)<br />
