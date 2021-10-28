@@ -16,6 +16,19 @@ Bottom and top surgeons that treat male to female patients.
 ## MTF Channels
 Male to female Youtube, Vimeo, and Peertube channels I consider trustworthy.
 
+### Originals
+[Deepstealth](https://www.youtube.com/user/deepstealth)
+[Calpernia](https://www.youtube.com/user/CalperniaAddams)
+[Andrea James](https://www.youtube.com/user/andreajeanjames)
+
+### Trans Voice Lessons
+[Voice Training](https://www.youtube.com/channel/UCBYlEnfAUbrYSwF0VujcmHA)
+
+### Transition Diaries
+[Casey Blake](https://www.youtube.com/user/caseyblakehansen)
+[Zoey Alexandria](https://www.youtube.com/channel/UCb0vBudtvi0FhRnbNSC32qA)
+
+### Commentary
 [Rose Of Dawn](https://youtube.com/c/RoseofDawn)<br />
 [Blaire White](https://youtube.com/c/BlaireWhiteX)<br />
 [TaraElla](https://youtube.com/c/TaraEllaTV2)<br />
