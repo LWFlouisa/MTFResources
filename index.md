@@ -11,6 +11,8 @@ Hormone providers and informed consent clinic in the bible belt and Georgia area
 [Feminizing](https://www.transgendermap.com/medical/hormones/feminization/)<br />
 
 ## Diet And Hair
+Resources for hair loss related MTF care:
+
 [Diet](https://www.transgendermap.com/social/diet-exercise/)<br />
 [Hair Loss](https://www.transgendermap.com/medical/hair-loss/recommendations/)<br />
 
