@@ -22,7 +22,8 @@ Permanent hair removal clinics in Bible Belt and Georgia.
 ## Surgery
 Bottom and top surgeons that treat male to female patients.
 
-Coming soon
+[Facial Feminization](https://www.transgendermap.com/medical/surgery/face/feminization/)<br />
+[Bottom Surgery](https://www.transgendermap.com/medical/surgery/bottom/feminization/)<br />
 
 ## MTF Channels
 Male to female Youtube, Vimeo, and Peertube channels I consider trustworthy.
