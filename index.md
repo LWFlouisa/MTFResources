@@ -37,3 +37,4 @@ Male to female Youtube, Vimeo, and Peertube channels I consider trustworthy.
 [Maya Kaye](https://www.youtube.com/channel/UCDKjeEfLkyjFPXyWDznz6VQ)<br />
 [Riley J Dennis](https://www.youtube.com/channel/UCVF8SAGEQnBA-yKM4iQNqfw)<br />
 [Madison Hinton](https://www.youtube.com/channel/UCE81T3u_YFLIJM6xxp7YJvg)<br />
+[Mia Mulder](https://www.youtube.com/channel/UC_OttpBEWWzSUlZbk5qmhSA)
