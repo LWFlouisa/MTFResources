@@ -17,9 +17,9 @@ Bottom and top surgeons that treat male to female patients.
 Male to female Youtube, Vimeo, and Peertube channels I consider trustworthy.
 
 ### Originals
-[Deepstealth](https://www.youtube.com/user/deepstealth)
-[Calpernia](https://www.youtube.com/user/CalperniaAddams)
-[Andrea James](https://www.youtube.com/user/andreajeanjames)
+[Deepstealth](https://www.youtube.com/user/deepstealth)<br />
+[Calpernia](https://www.youtube.com/user/CalperniaAddams)<br />
+[Andrea James](https://www.youtube.com/user/andreajeanjames)<br />
 
 ### Trans Voice Lessons
 [Voice Training](https://www.youtube.com/channel/UCBYlEnfAUbrYSwF0VujcmHA)
