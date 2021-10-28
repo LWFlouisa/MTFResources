@@ -31,8 +31,8 @@ Male to female Youtube, Vimeo, and Peertube channels I consider trustworthy.
 [Voice Training](https://www.youtube.com/channel/UCBYlEnfAUbrYSwF0VujcmHA)
 
 ### Transition Diaries
-[Casey Blake](https://www.youtube.com/user/caseyblakehansen)
-[Zoey Alexandria](https://www.youtube.com/channel/UCb0vBudtvi0FhRnbNSC32qA)
+[Casey Blake](https://www.youtube.com/user/caseyblakehansen)<br />
+[Zoey Alexandria](https://www.youtube.com/channel/UCb0vBudtvi0FhRnbNSC32qA)<br />
 
 ### Commentary
 [Rose Of Dawn](https://youtube.com/c/RoseofDawn)<br />
